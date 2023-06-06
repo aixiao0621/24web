@@ -1417,7 +1417,8 @@ button[id="removeAllBut"] {
 .footer {
 	position: relative;
 	padding: 20px 0 0;
-	background-color: #008ffe
+	background-color:#B25b6d;
+	height: 80px;
 }
 
 .footer .copyright {
